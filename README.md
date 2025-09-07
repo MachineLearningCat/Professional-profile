@@ -1,5 +1,13 @@
 ### Hi, Everyone 👋
 
+### About
+
+🎓 AI & Data Science Graduate | 💻 Software Developer | 🤖 ML Enthusiast
+
+Recent graduate in Artificial Intelligence and Data Science with a solid foundation in full-stack development, machine learning, and modern web technologies. Proficient in Java, Python, JavaScript, HTML/CSS, and popular frameworks. Experienced in Agile and SDLC practices, with a focus on building scalable, efficient, and maintainable solutions. Passionate about solving real-world problems through code and continuous learning.
+
+
+
 
 
 # 💻 Tech Stack:
